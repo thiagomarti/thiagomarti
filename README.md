@@ -11,7 +11,7 @@ I'm a **Junior Developer** specializing in **mobile apps** and **web application
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomarti&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomarti&show_icons=true&theme=tokyonight)
 
 ---
 
