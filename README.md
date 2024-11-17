@@ -6,7 +6,7 @@ I'm a **Junior Developer** specializing in **mobile apps** and **web application
 
 ## 🌟 What I Do  
 - **Mobile Development:** Building intuitive and user-friendly apps with React Native and Expo.  
-- **Web Development:** Crafting modern, responsive websites using React.  
+- **Web Development:** Crafting modern, responsive websites using React or Vue.js.  
 - **Backend:** Managing databases and APIs withExpress.js, Prisma, PostgreSQL, and Socket.IO.  
 
 ---
