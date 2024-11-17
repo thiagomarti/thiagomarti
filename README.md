@@ -43,6 +43,12 @@ I'm a **Junior Developer** specializing in **mobile apps** and **web application
 
 ---
 
+## 🚀 My Projects  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matuqqq&repo=HardStack&theme=radical)](https://github.com/matuqqq/HardStack)
+
+---
+
 ## 🔍 Currently  
 - 💼 Working on freelance projects to refine my skills and deliver impactful solutions.  
 - 🌱 Learning advanced concepts in **React Native**, **Prisma**, and **real-time applications**.  
