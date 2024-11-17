@@ -6,12 +6,8 @@ I'm a **Junior Developer** specializing in **mobile apps** and **web application
 
 ## 🌟 What I Do  
 - **Mobile Development:** Building intuitive and user-friendly apps with React Native and Expo.  
-- **Web Development:** Crafting modern, responsive websites using React, Express.js, and Prisma.  
-- **Backend:** Managing databases and APIs with PostgreSQL, Prisma, and Socket.IO.  
-
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomarti&show_icons=true&theme=tokyonight)
+- **Web Development:** Crafting modern, responsive websites using React.  
+- **Backend:** Managing databases and APIs withExpress.js, Prisma, PostgreSQL, and Socket.IO.  
 
 ---
 
@@ -40,6 +36,11 @@ I'm a **Junior Developer** specializing in **mobile apps** and **web application
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
 - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)  
+
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomarti&show_icons=true&theme=tokyonight)
 
 ---
 
